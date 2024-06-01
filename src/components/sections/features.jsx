@@ -15,7 +15,7 @@ import { FaArrowRight } from "react-icons/fa6";
 export const Features = () => {
   return (
     <section className="w-full max-w-screen-xl py-[120px]">
-      <div className="flex flex-col items-center justify-center py-[120px] space-y-14">
+      <div className="flex flex-col items-center justify-center space-y-14">
         <div className="flex flex-col items-center justify-center gap-5">
           <h2 className="text-4xl text-slate-900 font-bold leading-tight">
             Features
@@ -26,7 +26,7 @@ export const Features = () => {
           </p>
         </div>
         <div className="w-full grid grid-cols-12 gap-8">
-          <Card className="col-span-4 flex flex-col items-center rounded-2xl shadow-xl">
+          <Card className="col-span-4 flex flex-col items-center rounded-2xl shadow-2xl shadow-slate-300">
             <CardHeader>
               <img src={featureIcon1} alt="" srcset="" height={82} width={82} />
             </CardHeader>
@@ -44,7 +44,7 @@ export const Features = () => {
               </Button>
             </CardFooter>
           </Card>
-          <Card className="col-span-4 flex flex-col items-center rounded-2xl shadow-xl">
+          <Card className="col-span-4 flex flex-col items-center rounded-2xl shadow-2xl shadow-slate-300">
             <CardHeader>
               <img src={featureIcon2} alt="" srcset="" height={82} width={82} />
             </CardHeader>
@@ -62,7 +62,7 @@ export const Features = () => {
               </Button>
             </CardFooter>
           </Card>
-          <Card className="col-span-4 flex flex-col items-center rounded-2xl shadow-xl">
+          <Card className="col-span-4 flex flex-col items-center rounded-2xl shadow-2xl shadow-slate-300">
             <CardHeader>
               <img src={featureIcon3} alt="" srcset="" height={82} width={82} />
             </CardHeader>
