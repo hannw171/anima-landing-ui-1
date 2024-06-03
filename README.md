@@ -14,11 +14,11 @@ Repositori ini berisi proyek untuk melatih kemampuan slicing UI saya berdasarkan
 ## Struktur Proyek
 
 * src/: Folder utama untuk kode sumber.
- - components/: Folder untuk komponen React.
- - styles/: Folder yang berisi file CSS.
-  - main.css: File CSS utama.
-* App.js: Komponen utama aplikasi.
-* index.js: File entry point aplikasi.
+    * components/: Folder untuk komponen React.
+    * styles/: Folder yang berisi file CSS.
+        * main.css: File CSS utama.
+    * App.js: Komponen utama aplikasi.
+    * index.js: File entry point aplikasi.
 * public/: Folder untuk aset publik seperti gambar dan ikon.
 * package.json: File konfigurasi proyek.
 
