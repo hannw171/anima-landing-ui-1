@@ -33,6 +33,7 @@ Repositori ini berisi proyek untuk melatih kemampuan slicing UI saya berdasarkan
 `npm run dev`
 
 ## Preview
+![Screenshot UI](https://drive.google.com/file/d/1DiF7X9I85hlhFPkZYexepOFbQMZ7Pbf6/view?usp=drive_link)
 ## Referensi
 - [Anima UI Kit](https://www.figma.com/community/file/1207275552106101233/landing-page-ui-kit-fully-customizable-landing-page-ui-kit-export-as-html) : Sumber desain yang digunakan dalam proyek ini.
 - [React.js](https://reactjs.org/) : Library JavaScript untuk membangun antarmuka pengguna.
