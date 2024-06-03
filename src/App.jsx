@@ -1,3 +1,4 @@
+import { Footer } from "./components/footer";
 import { Header } from "./components/header";
 import { Banner } from "./components/sections/banner";
 import { CTA } from "./components/sections/cta";
@@ -13,7 +14,7 @@ import { Testimonials } from "./components/sections/testimonials";
 function App() {
   return (
     <>
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center bg-[#F8F9FF]">
         <Header />
         <main>
           <Hero />
@@ -27,6 +28,7 @@ function App() {
           <CTA />
           <CTAForm />
         </main>
+        <Footer />
       </div>
     </>
   );

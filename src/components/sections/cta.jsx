@@ -4,7 +4,7 @@ import { Button } from "../ui/button";
 
 export const CTA = () => {
   return (
-    <section className="flex grid grid-cols-12 justify-center items-center w-full max-w-screen-xl py-[60px] bg-[#F2BFAF] max-h-[434px] overflow-hidden rounded-2xl">
+    <section className="grid grid-cols-12 justify-center items-center w-full max-w-screen-xl bg-[#F2BFAF] h-fit overflow-hidden rounded-2xl mb-16">
       <div className="col-span-6 h-full flex flex-col gap-10 p-16">
         <div className="flex flex-col gap-5">
           <h2 className="text-5xl font-bold">Get Landing Page UI Kit Today!</h2>
@@ -18,7 +18,7 @@ export const CTA = () => {
           <FaArrowRight />
         </Button>
       </div>
-      <div className="col-span-6 mt-[-260px] h-[434px] w-full">
+      <div className="col-span-6 mt-[-80px] h-[434px] w-full">
         <img src={imageCTA} alt="" srcset="" />
       </div>
     </section>
