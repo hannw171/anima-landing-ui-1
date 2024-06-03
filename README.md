@@ -34,6 +34,12 @@ Repositori ini berisi proyek untuk melatih kemampuan slicing UI saya berdasarkan
 
 ## Preview
 ![Screenshot UI](https://github.com/hannw171/anima-landing-ui-1/blob/main/src/assets/ui-1.png)
+
+## Screen Version
+- [x] Website version
+- [ ] Tablet version
+- [ ] Mobile version
+
 ## Referensi
 - [Anima UI Kit](https://www.figma.com/community/file/1207275552106101233/landing-page-ui-kit-fully-customizable-landing-page-ui-kit-export-as-html) : Sumber desain yang digunakan dalam proyek ini.
 - [React.js](https://reactjs.org/) : Library JavaScript untuk membangun antarmuka pengguna.
